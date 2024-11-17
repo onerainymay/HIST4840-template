@@ -14,7 +14,7 @@ credits: false
 
 ## Description
 
-This is a brief description of the podcast episode - perhaps an introduction, teaser, or abstract. Jackson's was here.
+In our latest episode, we explore the history of the Hudson's Bay Company (HBC) and the Bay, a department store familiar to most Canadians, through a public history angle. Through exploring relationship dynamics between the HBC and those involved in the fur trade, how the Bay interacts with its history, as well as preservation and reconciliation efforts, we hope to shed light on the company's complex history and the ways in which identity narratives are framed.
 
 ## Transcript
 
