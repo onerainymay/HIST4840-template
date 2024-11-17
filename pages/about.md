@@ -18,7 +18,9 @@ In our latest episode, we explore the history of the Hudson's Bay Company (HBC) 
 
 ## Transcript
 
-If you have a transcript of your podcast's text, this might be a good place to put it! Otherwise, you can delete this section.
+The following link is a transcript of our narration for the most recent episode of the podcast: 
+
+https://docs.google.com/document/d/1uNS-ztBA4H6uVw7aYCxd7u_3VXb33Wjx_v4pcNYfenI/edit?usp=sharing
 
 ## Links
 The following links and resources were referred to in in the podcast audio:
