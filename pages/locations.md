@@ -10,5 +10,4 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Browse Locations
 
-Use this word cloud visualization to browse locations.
-Word size is determined by frequency and all words link to a corresponding collection search.
+To use this word cloud visualization to browse by location, simply click a location and it will take you to a coresponding collection search. Remember, the bigger a word the greater its frequency!
