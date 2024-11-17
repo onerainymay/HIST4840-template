@@ -38,7 +38,7 @@ Belisle, Donica. Retail Nation: Department Stores and the Making of Modern Canad
 
 Bernhardt, Darren. “Wehwehneh Bahgahkinahgohn Transformation of Former Winnipeg Bay Building Gets Another $31M from Feds.” CBC News, May 24, 2024. https://www.cbc.ca/news/canada/manitoba/wehwehneh-bahgahkinahgohn-thebay-winnipeg-transformation-1.7213774.
 
-Brophy, Susan Dianne. A Legacy of Exploitation: Early Capitalism in the Red River Colony, 1763-1821. 1st ed. Vancouver: University of British Columbia Press, 2022.
+Brophy, Susan Dianne. A Legacy of Exploitation: Early Capitalism in the Red River Colony, 1763-1821. Vancouver: UBC Press, 2022. https://doi.org/10.59962/9780774866378.
 
 Burnett, Kristin. Plundering the North: A History of Settler Colonialism, Corporate Welfare, and Food Insecurity. First edition. Winnipeg, Manitoba: University of Manitoba Press, 2023. https://doi.org/10.1515/9781772840506.
 
@@ -53,5 +53,3 @@ Palmer, Alexandra. Fashion: A Canadian Perspective. 1st ed. Books Collection. To
 Patriquin, Martin. “How ‘The Beaver’ Lost Its Name.” Macleans.ca, February 17, 2010. https://macleans.ca/news/canada/how-the-beaver-lost-its-name/.
 
 Van Lent, Wim, and Andrew D. Smith. “Using Versus Excusing: The Hudson’s Bay Company’s Long-Term Engagement with Its (Problematic) Past.” Journal of Business Ethics 166, no. 2 (2019): 215–31. https://doi.org/10.1007/s10551-019-04320-7.
-
-
