@@ -42,7 +42,7 @@ Brophy, Susan Dianne. A Legacy of Exploitation: Early Capitalism in the Red Rive
 
 Burnett, Kristin. Plundering the North: A History of Settler Colonialism, Corporate Welfare, and Food Insecurity. First edition. Winnipeg, Manitoba: University of Manitoba Press, 2023. https://doi.org/10.1515/9781772840506.
 
-Laflèche, Anik. “Hudson’s Bay Company: 350 Years of Archives.” Library and Archives Canada Blog (blog), December 21, 2020. https://thediscoverblog.com/2020/12/21/hudsons-bay-company-350-years-of-archives/.
+Laflèche, Anik. “Hudson’s Bay Company: 350 Years of Archives.” Library and Archives Canada Blog, December 21, 2020. https://thediscoverblog.com/2020/12/21/hudsons-bay-company-350-years-of-archives/.
 
 Onishi, Norimitsu, and Nasuna Stuart-Ulin. “For the Indigenous, Was This Building a Gesture of Reconciliation? Or an Empty Gift?” The New York Times, May 27, 2023, sec. World. https://www.nytimes.com/2023/05/27/world/americas/indigenous-canada-hudson-bay.html.
 
