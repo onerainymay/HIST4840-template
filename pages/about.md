@@ -22,17 +22,19 @@ The following link is a transcript of our narration for the most recent episode 
 
 https://docs.google.com/document/d/1uNS-ztBA4H6uVw7aYCxd7u_3VXb33Wjx_v4pcNYfenI/edit?usp=sharing
 
+## Acknowledgments
+
+For our lastest episode, we would like to acknowledge assistance and support from:
+
+- The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
+- Professor Jennifer Bonnell
+- Professor Carolyn Podruchny
+
 ## Links
 The following links and resources were referred to in in the podcast audio:
 
 1. This sample site is based on [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), which can be used to build digital exhibits from scratch.
 2. A list of [places you can look for free, openly-licensed audio for your podcast](https://www.canva.com/design/DAEJvWSiST4/FaBJKdustUaRcDy-oPD1uQ/view)
-
-## Acknowledgments
-
-The creators would like to acknowledge assistance and support from:
-
-- The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
 
 ## Research Bibliography
 
