@@ -52,8 +52,6 @@ Onishi, Norimitsu, and Nasuna Stuart-Ulin. “For the Indigenous, Was This Build
 
 Opp, James. “Branding ‘the Bay/La Baie’: Corporate Identity, the Hudson’s Bay Company, and the Burden of History in the 1960s.” The Canadian Historical Review 96, no. 2 (2015): 223–56. https://doi.org/10.3138/chr.2675.
 
-Palmer, Alexandra. Fashion: A Canadian Perspective. 1st ed. Books Collection. Toronto: University of Toronto Press, 2004. https://doi.org/10.3138/9781442674806.
-
 Patriquin, Martin. “How ‘The Beaver’ Lost Its Name.” Macleans.ca, February 17, 2010. https://macleans.ca/news/canada/how-the-beaver-lost-its-name/.
 
 Van Lent, Wim, and Andrew D. Smith. “Using Versus Excusing: The Hudson’s Bay Company’s Long-Term Engagement with Its (Problematic) Past.” Journal of Business Ethics 166, no. 2 (2019): 215–31. https://doi.org/10.1007/s10551-019-04320-7.
