@@ -24,17 +24,19 @@ The following link is a transcript of our narration for the most recent episode 
 
 ## Acknowledgments
 
-For our lastest episode, we would like to acknowledge assistance and support from:
+For our latest episode, we would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
 - Professor Jennifer Bonnell
 - Professor Carolyn Podruchny
 
-## Links
-The following links and resources were referred to in in the podcast audio:
+## Music Credits
+The following music track was used in our latest:
 
-1. This sample site is based on [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), which can be used to build digital exhibits from scratch.
-2. A list of [places you can look for free, openly-licensed audio for your podcast](https://www.canva.com/design/DAEJvWSiST4/FaBJKdustUaRcDy-oPD1uQ/view)
+“The Drama” by Rafael Krux on FreePD.com - Free Public Domain Music Creative Commons 0 Completely Royalty Free
+CC0 1.0  Legal Code 
+
+CC0 1.0 Universal - Creative Commons
 
 ## Research Bibliography
 
