@@ -31,7 +31,7 @@ For our latest episode, we would like to acknowledge assistance and support from
 - Professor Carolyn Podruchny
 
 ## Music Credits
-The following music track was used in our latest:
+The following music track was used in our latest episode:
 
 “The Drama” by Rafael Krux on FreePD.com - Free Public Domain Music Creative Commons 0 Completely Royalty Free
 CC0 1.0  Legal Code 
