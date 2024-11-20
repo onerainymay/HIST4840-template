@@ -9,6 +9,8 @@ credits: false
 ---
 
 {% include feature/jumbotron.html objectid="fort_garry_settlement" %}
+{% include feature/nav-menu.html sections="Description;Transcript;Acknowledgments;Music;Bibliography" %}
+
 
 ## Description
 
